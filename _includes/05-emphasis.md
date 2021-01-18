@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+My github skills are poor :sad:
+
+I need to *improve* on the following:
+
+1. **Repositories**
+2. **Creating projects**
